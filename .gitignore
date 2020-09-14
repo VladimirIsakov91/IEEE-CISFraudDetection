@@ -124,4 +124,7 @@ dmypy.json
 .pyre/
 
 #Data
-./data/
+/data/
+
+#Dask
+/dask-worker-space/
